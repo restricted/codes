@@ -1,7 +1,7 @@
 Phone codes for all countries
 =====
 
-Parsed from MTT
+Parsed from MTT http://www.mtt.ru
 
 =====
 
