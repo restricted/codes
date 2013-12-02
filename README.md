@@ -1,8 +1,6 @@
 Phone codes for all countries
 =====
 
+**Updated 02.12.2013**
+
 Parsed from MTT http://www.mtt.ru
-
-=====
-
-Attention! Last column must be text because code may contain lead 0.
